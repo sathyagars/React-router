@@ -1,3 +1,3 @@
 React Router
 
-Output: https://pratheek-router.netlify.app/
+Output: https://sathyagar-react-router.netlify.app/
